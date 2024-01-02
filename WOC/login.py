@@ -16,16 +16,16 @@ class GraphicalPasswordAuthenticationSystem:
         self.master.resizable(False, False)
 
         self.image_paths = [
-            "/home/kali/WOC/tmnt.gif",
-            "/home/kali/WOC/ben10.gif",
-            "/home/kali/WOC/pokemon.gif",
-            "/home/kali/WOC/taj.gif",
-            "/home/kali/WOC/ram.gif",
-            "/home/kali/WOC/beyblade.gif",
-            "/home/kali/WOC/rn21.gif",
-            "/home/kali/WOC/nh.gif",
-            "/home/kali/WOC/paf.gif",
-            "/home/kali/WOC/shinchan.gif"
+            "/home/kali/WOC/Images/tmnt.gif",
+            "/home/kali/WOC/Images/ben10.gif",
+            "/home/kali/WOC/Images/pokemon.gif",
+            "/home/kali/WOC/Images/taj.gif",
+            "/home/kali/WOC/Images/ram.gif",
+            "/home/kali/WOC/Images/beyblade.gif",
+            "/home/kali/WOC/Images/rn21.gif",
+            "/home/kali/WOC/Images/nh.gif",
+            "/home/kali/WOC/Images/paf.gif",
+            "/home/kali/WOC/Images/shinchan.gif"
         ]
 
         self.selected_images = []
